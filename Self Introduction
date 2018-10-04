@@ -1,9 +1,0 @@
-def  self_intro():
-    print ('Hello, World. My name is Kendrick and I am a graduate student.')
-    print ('I am at the start of my graduate career working towards a')
-    print ('degree in Computer Science. I would describe myself as a self')
-    print ('motivator and self discipled. I am 5 feet and 9 inches tall,')
-    print ('have dark black hair and brown eyes. A little more about')
-    print ('myself, I work as an IT for the Coast Guard and am an independant')
-    print ('contractor providing financial services. I am happily married')
-    print ('and have two loving children.')
